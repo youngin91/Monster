@@ -1,0 +1,8 @@
+.search-box input{
+  outline: none;
+  padding:15px;
+  border-radius:10px;
+  border:none;
+  background:rgb(228, 225, 225);
+  margin-bottom:2.5rem;
+}

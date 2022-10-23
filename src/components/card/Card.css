@@ -1,0 +1,30 @@
+.card {
+  background: #88d4d2;
+  width: 100%;
+  height: 100%;
+  color: black;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 1rem 0 2rem;
+  font-size: 15px;
+  transition: all 0.2s;
+}
+.card img {
+  width: 80%;
+  -webkit-touch-callout: none;
+  user-select: none;
+}
+.card h2 {
+  margin: 0.5rem auto 1rem auto;
+  max-width: 90%;
+}
+.card p {
+  font-size: 18px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+.card:active {
+  transform: scale(1.05);
+}

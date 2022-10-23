@@ -1,0 +1,14 @@
+.card-container {
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+  place-items:center;
+  width:85%;
+  height:auto;
+  margin-top:2rem;
+  gap:1rem;
+  margin:0 auto;
+}
+@media only screen 
+and (min-width: 768px){
+  
+}
